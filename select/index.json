@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハートブレイク・ダンスミュージック",
+  "base_artist": "PEOPLE 1",
+  "createdAt": "2025-12-02T07:04:18.731907Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハートブレイク・ダンスミュージック",
+      "artist": "PEOPLE 1",
+      "has_synced": false,
+      "path": "select/pl_01_ハートブレイク・ダンスミュージック_PEOPLE_1.txt"
+    }
+  ]
+}
